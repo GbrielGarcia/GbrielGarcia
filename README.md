@@ -2,9 +2,10 @@
 - Desarrollo en [Flutter](https://flutter.dev/)
 - 🔭 Me gusta consultar lo que no se.
 - 🌱 Poco a poco estoy aprendiendo está maravillosa tecnología.
+- 💬 Deseas comunicarte conmigo, este es mi numero  [0992889078](
+wa.link/3drcxk)
 <!--
 **GbrielGarcia/gbrielgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
  ...
