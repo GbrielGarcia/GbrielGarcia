@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador Movil de Ecuador</h3>
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/gbriel_garcia/)
-[![WhatsApp Badge](https://img.shields.io/badge/-Whatsapp-4FCE5D?style=flat-square&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=0992889078)
+[![WhatsApp Badge](https://img.shields.io/badge/-Whatsapp-4FCE5D?style=flat-square&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=992889078)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/gabrielgarcia)
 
 
