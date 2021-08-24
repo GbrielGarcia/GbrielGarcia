@@ -1,23 +1,57 @@
-#  👋
-<!-- - Desarrollo en [Flutter](https://flutter.dev/)
-- 🔭 Me gusta consultar lo que no se.
-- 🌱 Poco a poco estoy aprendiendo está maravillosa tecnología.
-- 💬 Deseas comunicarte conmigo, este es mi numero  [0992889078](https://wa.me/593992889078) -->
-<!--
-**GbrielGarcia/gbrielgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+<h1 align="center">Hola 👋, Soy Gabriel Garcia</h1>
+<h3 align="center">Desarrollador Movil de Ecuador</h3>
 
- ...
- ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/gbriel_garcia/)
+[![WhatsApp Badge](https://img.shields.io/badge/-Whatsapp-4FCE5D?style=flat-square&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=0992889078)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/gabrielgarcia)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gbrielgarcia&show_icons=true&theme=dracula)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbrielgarcia&layout=compact) -->
+<!-- <img align="right" height="250" width="375" alt="" src="gifs/coder.gif"/> -->
+
+<details>
+  <summary><b>💻 Habilidades </b></summary> 
+<br>
+
+[![Python Badge](https://img.shields.io/badge/-Python-3476AA?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
+[![Dart Badge](https://img.shields.io/badge/-Dart-2CB7F6?style=flat-square&logo=Dart&logoColor=white)](https://dart.dev/)
+[![Flutter Badge](https://img.shields.io/badge/-Flutter-45D1FD?style=flat-square&logo=Flutter&logoColor=white)](https://Flutter.dev/)
+[![GetX Badge](https://img.shields.io/badge/-GetX-6C00BA?style=flat-square&logo=GetX&logoColor=white)](https://pub.dev/packages/get)
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-00618A?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+
+[![Linux Badge](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
+[![Git Badge](https://img.shields.io/badge/-Git-F05133?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/)
+
+[![HTML Badge](https://img.shields.io/badge/-HTML5-E54C21?style=flat-square&logo=HTML5&logoColor=white)](https://html.com/)
+[![CSS Badge](https://img.shields.io/badge/-CSS3-2496ED?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SCSS Badge](https://img.shields.io/badge/-SCSS-2496ED?style=flat-square&logo=SASS&logoColor=white)](https://sass-lang.com/)
+
+</br>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Status</b></summary>
+
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gbrielgarcia&show_icons=true&theme=dracula)
+
+</details>
+
+<details>	
+  <br />
+  <summary><b>⚙️ Mi equipo</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Windows 10</li>
+	    <li><b>Laptop: </b> HeroBook Pro (Celeron)
+  	    <li><b>Browser: </b> Chorme Web</li>
+	    <li><b>Terminal: </b> GIT CMD</li>
+	    <li><b>Editor:</b> VSCode - Android Studio.</li>
+
+	
+</details>
+
+
+<div align="center">
+
+### Gracias por visitar  ❤️ mi portafolio
+
+</div>
