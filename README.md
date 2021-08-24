@@ -1,8 +1,8 @@
-### Hola bienvenido 👋
-- Desarrollo en [Flutter](https://flutter.dev/)
+#  👋
+<!-- - Desarrollo en [Flutter](https://flutter.dev/)
 - 🔭 Me gusta consultar lo que no se.
 - 🌱 Poco a poco estoy aprendiendo está maravillosa tecnología.
-- 💬 Deseas comunicarte conmigo, este es mi numero  [0992889078](https://wa.me/593992889078)
+- 💬 Deseas comunicarte conmigo, este es mi numero  [0992889078](https://wa.me/593992889078) -->
 <!--
 **GbrielGarcia/gbrielgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gbrielgarcia&show_icons=true&theme=dracula)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbrielgarcia&layout=compact) -->
