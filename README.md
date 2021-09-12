@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Gabriel Garcia</h1>
-<h3 align="center">Desarrollador Movil de Ecuador</h3>
+<h3 align="center">Desarrollador Movil & Web.</h3>
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/gbriel_garcia/)
 [![WhatsApp Badge](https://img.shields.io/badge/-Whatsapp-4FCE5D?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.link/5zc1q4)
