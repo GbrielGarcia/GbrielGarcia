@@ -6,8 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Gabrielx2Garcia)
 
 
-<details>
-  <summary><b>💻 Habilidades </b></summary> 
+
 
 
 [![Python Badge](https://img.shields.io/badge/-Python-3476AA?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
@@ -23,8 +22,6 @@
 [![CSS Badge](https://img.shields.io/badge/-CSS3-2496ED?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![SCSS Badge](https://img.shields.io/badge/-SCSS-2496ED?style=flat-square&logo=SASS&logoColor=white)](https://sass-lang.com/)
 
-
-</details>
 
 <details>	
   <summary><b>☄️ Github Status</b></summary>
