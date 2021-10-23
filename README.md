@@ -8,7 +8,7 @@
 
 
 <details>	
-  <summary><b>☄️ Habilidades</b></summary>
+  <summary><b>💻 Habilidades</b></summary>
 
 [![Python Badge](https://img.shields.io/badge/-Python-3476AA?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
 [![Dart Badge](https://img.shields.io/badge/-Dart-2CB7F6?style=flat-square&logo=Dart&logoColor=white)](https://dart.dev/)
