@@ -46,6 +46,6 @@
 <div align="center">
 
 ![image](https://github.com/GbrielGarcia/gbrielgarcia/blob/main/gifs/dino.gif)
-### Gracias por visitar  ❤️ mi portafolio
+### Gracias por visitar  ❤️
 
 </div>
