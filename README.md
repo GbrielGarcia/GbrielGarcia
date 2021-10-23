@@ -1,14 +1,14 @@
 <h1 align="center">Hola 👋, Soy Gabriel Garcia</h1>
 <h3 align="center">Desarrollador Movil & Web.</h3>
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/gbriel_garcia/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/gabrielx2garcia/)
 [![WhatsApp Badge](https://img.shields.io/badge/-Whatsapp-4FCE5D?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.link/5zc1q4)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/gbriel_garcia)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Gabrielx2Garcia)
 
 
 <details>
   <summary><b>💻 Habilidades </b></summary> 
-<br>
+
 
 [![Python Badge](https://img.shields.io/badge/-Python-3476AA?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
 [![Dart Badge](https://img.shields.io/badge/-Dart-2CB7F6?style=flat-square&logo=Dart&logoColor=white)](https://dart.dev/)
@@ -23,7 +23,7 @@
 [![CSS Badge](https://img.shields.io/badge/-CSS3-2496ED?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![SCSS Badge](https://img.shields.io/badge/-SCSS-2496ED?style=flat-square&logo=SASS&logoColor=white)](https://sass-lang.com/)
 
-</br>
+
 </details>
 
 <details>	
