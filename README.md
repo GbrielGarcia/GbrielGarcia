@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Soy Gabriel Garcia</h1>
 <h3 align="center">Desarrollador Movil & Web.</h3>
 
-<div aling="center">
+<br aling="center">
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/gbriel_garcia/)
 [![WhatsApp Badge](https://img.shields.io/badge/-Whatsapp-4FCE5D?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.link/5zc1q4)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/gbriel_garcia)
-</div>
+</br>
 
 <details>
   <summary><b>💻 Habilidades </b></summary> 
