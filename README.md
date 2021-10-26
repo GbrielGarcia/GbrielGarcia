@@ -33,7 +33,7 @@
   <br />
   <summary><b>⚙️ Mi equipo</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 10</li>
+  	    <li><b>OS:</b> Garuda Arch Linux - I3</li>
 	    <li><b>Laptop: </b> HeroBook Pro (Celeron)
   	    <li><b>Browser: </b> Chorme Web</li>
 	    <li><b>Terminal: </b> GIT CMD</li>
