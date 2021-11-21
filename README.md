@@ -27,9 +27,6 @@
   <b>☄️ Github Status</b>
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gbrielgarcia&show_icons=true&theme=dracula)
-
-
-
 	
   <br />
   <b>⚙️ Mi equipo</b>
@@ -39,10 +36,7 @@
   	    <li><b>Browser: </b> Chorme Web</li>
 	    <li><b>Terminal: </b> GIT CMD</li>
 	    <li><b>Editor:</b> VSCode - Android Studio.</li>
-
-
-
-	
+  <br />
 <div align="center">
 
 ![image](https://github.com/GbrielGarcia/gbrielgarcia/blob/main/gifs/dino.gif)
