@@ -22,12 +22,11 @@
 [![SCSS Badge](https://img.shields.io/badge/-SCSS-2496ED?style=flat-square&logo=SASS&logoColor=white)](https://sass-lang.com/)
 
 
-<details>	
-  <summary><b>☄️ Github Status</b></summary>
+  <b>☄️ Github Status</b>
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gbrielgarcia&show_icons=true&theme=dracula)
 
-</details>
+
 
 <details>	
   <br />
