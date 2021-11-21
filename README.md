@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, Soy Gabriel Garcia</h1>
 <h3 align="center">Desarrollador Movil & Web.</h3>
 
+  <b💬 Redes Sociales</b>
+
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/gabrielx2garcia/)
 [![WhatsApp Badge](https://img.shields.io/badge/-Whatsapp-4FCE5D?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.link/5zc1q4)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Gabrielx2Garcia)
