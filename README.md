@@ -28,9 +28,9 @@
 
 
 
-<details>	
+	
   <br />
-  <summary><b>⚙️ Mi equipo</b></summary>
+  <b>⚙️ Mi equipo</b>
   	<ul>
   	    <li><b>OS:</b> Garuda Arch Linux - I3</li>
 	    <li><b>Laptop: </b> HeroBook Pro (Celeron)
@@ -38,8 +38,7 @@
 	    <li><b>Terminal: </b> GIT CMD</li>
 	    <li><b>Editor:</b> VSCode - Android Studio.</li>
 
-	
-</details>
+
 
 
 <div align="center">
