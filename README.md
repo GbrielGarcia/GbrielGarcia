@@ -8,8 +8,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Gabrielx2Garcia)
 
 
-
-
   <b>💻 Habilidades</b>
 
 [![Python Badge](https://img.shields.io/badge/-Python-3476AA?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
@@ -29,7 +27,7 @@
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gbrielgarcia&show_icons=true&theme=dracula)
 	
   <br />
-  <b>⚙️ Mi equipo</b>
+  ⚙️ Mi equipo</b>
   	<ul>
   	    <li><b>OS:</b> Garuda Arch Linux - I3</li>
 	    <li><b>Laptop: </b> HeroBook Pro (Celeron)
