@@ -20,7 +20,9 @@
 [![HTML Badge](https://img.shields.io/badge/-HTML5-E54C21?style=flat-square&logo=HTML5&logoColor=white)](https://html.com/)
 [![CSS Badge](https://img.shields.io/badge/-CSS3-2496ED?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![SCSS Badge](https://img.shields.io/badge/-SCSS-2496ED?style=flat-square&logo=SASS&logoColor=white)](https://sass-lang.com/)
-[![SCSS Badge](https://img.shields.io/badge/-wordpress-2496ED?style=flat-square&logo=wordpress&logoColor=white)](https://wordpress.com/)
+[![SCSS Badge](https://img.shields.io/badge/-WORDPRESS-2496ED?style=flat-square&logo=wordpress&logoColor=white)](https://wordpress.com/)
+
+
 
 
 
