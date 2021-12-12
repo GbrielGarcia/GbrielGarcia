@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy Gabriel Garcia, Ecuador [![Icon Ecuador](https://user-images.githubusercontent.com/80141815/145695552-c5de690c-d482-4e7b-88d7-a9fd95da596c.png)](https://www.instagram.com/gabrielx2garcia/)
-</h1>
+<h1 align="center">Hola 👋, Soy Gabriel Garcia, Ecuador</h1>
+
 <h3 align="center">Desarrollador Movil & Web.</h3>
 
   <b>💬 Redes Sociales</b>
