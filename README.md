@@ -1,4 +1,5 @@
-<h1 align="center">Hola 👋, Soy Gabriel Garcia, Santo Domingo</h1>
+<h1 align="center">Hola 👋, Soy Gabriel Garcia, Ecuador ![image](https://user-images.githubusercontent.com/80141815/145695528-b45d4d36-977c-46f6-95af-7efc3db59a73.png)
+</h1>
 <h3 align="center">Desarrollador Movil & Web.</h3>
 
   <b>💬 Redes Sociales</b>
