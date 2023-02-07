@@ -44,6 +44,9 @@
   <br />
 <div align="center">
 
+
+![Snake animation](https://github.com/MahmoudMehisen/MahmoudMehisen/blob/output/github-contribution-grid-snake.svg)
+
 ![image](https://github.com/GbrielGarcia/gbrielgarcia/blob/main/gifs/dino.gif)
 ### Gracias por visitar  ❤️ ... gabrielcodigo.com
 
