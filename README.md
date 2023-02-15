@@ -34,13 +34,6 @@
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gbrielgarcia&show_icons=true&theme=dracula)
 	
   <br />
-  ⚙️ Mi equipo</b>
-  	<ul>
-  	    <li><b>OS:</b> Garuda Arch Linux - I3</li>
-	    <li><b>Laptop: </b> HeroBook Pro (Celeron)
-  	    <li><b>Browser: </b> Chorme Web</li>
-	    <li><b>Terminal: </b> GIT CMD</li>
-	    <li><b>Editor:</b> VSCode - Android Studio.</li>
   <br />
 <div align="center">
 
