@@ -7,6 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/gabrielcodigo_/)
 [![WhatsApp Badge](https://img.shields.io/badge/-Whatsapp-4FCE5D?style=flat-square&logo=Whatsapp&logoColor=white)](https://walink.co/a3d21a)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Gabrielx2Garcia)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-linkedin-blue)](linkedin.com/in/albertoguaman/)
 
 
   <b>💻 Habilidades</b>
