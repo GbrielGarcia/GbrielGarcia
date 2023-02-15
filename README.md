@@ -12,8 +12,8 @@
   <b>💻 Habilidades</b>
   
 [![Flutter Badge](https://img.shields.io/badge/-Flutter-45D1FD?style=flat-square&logo=Flutter&logoColor=white)](https://Flutter.dev/)
-[![Dart Badge](https://img.shields.io/badge/-Dart-2CB7F6?style=flat-square&logo=Dart&logoColor=white)](https://dart.dev/)
 [![Linux Badge](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
+[![Dart Badge](https://img.shields.io/badge/-Dart-2CB7F6?style=flat-square&logo=Dart&logoColor=white)](https://dart.dev/)
 
 
 [![Python Badge](https://img.shields.io/badge/-Python-3476AA?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
