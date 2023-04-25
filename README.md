@@ -27,12 +27,6 @@
 [![SCSS Badge](https://img.shields.io/badge/-WORDPRESS-2496ED?style=flat-square&logo=wordpress&logoColor=white)](https://wordpress.com/)
 
 
-
-
-
-  <b>☄️ Github Status</b>
-
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gbrielgarcia&show_icons=true&theme=dracula)
 	
   <br />
   <br />
