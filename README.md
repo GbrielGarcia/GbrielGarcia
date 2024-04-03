@@ -4,10 +4,9 @@
 
   <b>💬 Redes Sociales</b>
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/gabrielcodigo_/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/tinguar_technology/)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-00acee?style=flat-square&logo=Linkedin&logoColor=white)](linkedin.com/in/albertoguaman/)
-[![WhatsApp Badge](https://img.shields.io/badge/-Whatsapp-4FCE5D?style=flat-square&logo=Whatsapp&logoColor=white)](https://walink.co/a3d21a)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Gabrielx2Garcia)
+[![WhatsApp Badge](https://img.shields.io/badge/-Whatsapp-4FCE5D?style=flat-square&logo=Whatsapp&logoColor=white)](https://tiendas.tinguar.com/ktFEe)
 
   <b>💻 Habilidades</b>
   
