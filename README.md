@@ -63,14 +63,14 @@ Ahora mismo: productos Flutter + Laravel, webs Astro/Vue y herramientas internas
 ### Actividad en GitHub
 
 <div align="center">
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=GbrielGarcia&show_icons=true&theme=transparent&hide_border=true&title_color=19c3a3&icon_color=3dd6ff&text_color=c9d7d2&bg_color=00000000&count_private=true" alt="Estadísticas de GitHub"/>
-  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GbrielGarcia&layout=compact&theme=transparent&hide_border=true&title_color=19c3a3&text_color=c9d7d2&bg_color=00000000&langs_count=8&count_private=true" alt="Lenguajes más usados"/>
+  <img height="168" src="https://github-readme-stats-one-bice.vercel.app/api?username=GbrielGarcia&show_icons=true&theme=transparent&hide_border=true&title_color=19c3a3&icon_color=3dd6ff&text_color=c9d7d2&bg_color=0b1f24&count_private=true" alt="Estadísticas de GitHub"/>
+  <img height="168" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=GbrielGarcia&layout=compact&theme=transparent&hide_border=true&title_color=19c3a3&text_color=c9d7d2&bg_color=0b1f24&langs_count=8&count_private=true" alt="Lenguajes más usados"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="620" src="https://streak-stats.demolab.com?user=GbrielGarcia&theme=transparent&hide_border=true&ring=19c3a3&fire=3dd6ff&currStreakLabel=19c3a3&sideLabels=c9d7d2&dates=8eaea4&background=00000000" alt="Racha de contribuciones"/>
+  <img width="620" src="https://github-readme-streak-stats.herokuapp.com/?user=GbrielGarcia&theme=transparent&hide_border=true&ring=19c3a3&fire=3dd6ff&currStreakLabel=19c3a3&sideLabels=c9d7d2&dates=8eaea4&background=0b1f24" alt="Racha de contribuciones"/>
 </div>
 
 <br/>
