@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Alberto Guaman — Desarrollador móvil y web" width="100%"/>
-</div>
 
-<br/>
+# Alberto Guaman
 
-<div align="center">
+**Desarrollador móvil & web · Ecuador**  
+Fundador de [Tinguar](https://tinguar.com/) · Freelance disponible
+
+Arquitecto y desarrollo productos de software **desde cero**: definición del problema, arquitectura, implementación, despliegue y mantenimiento — acelerando el ciclo con **IA aplicada al diseño técnico y a la construcción del proyecto**.
 
 [![Tinguar](https://img.shields.io/badge/Tinguar-tinguar.com-0b1f24?style=for-the-badge&labelColor=19c3a3&color=0b1f24)](https://tinguar.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-albertoguaman.com-0b1f24?style=for-the-badge&labelColor=3dd6ff&color=0b1f24)](https://albertoguaman.com/)
@@ -18,9 +19,11 @@
 
 ### Sobre mí
 
-Fundador de **[Tinguar](https://tinguar.com/)**. Diseño y desarrollo software para negocios reales: apps móviles, APIs y sitios web que se pueden mantener y escalar.
+Fundador de **[Tinguar](https://tinguar.com/)**. Diseño y desarrollo software para negocios reales: apps móviles, APIs y sitios web pensados para mantenerse y escalar.
 
-Ahora mismo: productos Flutter + Laravel, webs Astro/Vue y herramientas internas (POS, cobranzas, impresión local, paywalls).
+Trabajo el ciclo completo **desde el paso 0**: discovery, arquitectura de solución, stack, módulos, datos, integraciones, entrega y operación. Integro **IA en la arquitectura y el desarrollo** para prototipar más rápido, validar decisiones técnicas y construir sistemas listos para producción — sin saltar el criterio de ingeniería.
+
+Enfoque actual: productos Flutter + Laravel, webs Astro/Vue y herramientas de negocio (POS, cobranzas, streaming, campañas WhatsApp, paywalls).
 
 ---
 
@@ -33,7 +36,8 @@ Ahora mismo: productos Flutter + Laravel, webs Astro/Vue y herramientas internas
 <p align="center">
   <b>Móvil</b> Flutter · Dart · Firebase &nbsp;|&nbsp;
   <b>Backend</b> Laravel · PHP · MySQL &nbsp;|&nbsp;
-  <b>Web</b> Vue · TypeScript · Astro · WordPress
+  <b>Web</b> Vue · TypeScript · Astro · WordPress &nbsp;|&nbsp;
+  <b>Método</b> Arquitectura de proyectos · IA aplicada al desarrollo
 </p>
 
 ---
@@ -82,7 +86,6 @@ Herramientas gratis en [tinguar.com/labs](https://tinguar.com/labs/) — 3 proye
 ---
 
 <div align="center">
-  <img src="gifs/dino.gif" width="88" alt="Dino"/>
   <p>
     <b>¿Hablamos de tu próximo proyecto?</b><br/>
     <a href="https://tinguar.com/">tinguar.com</a> ·
