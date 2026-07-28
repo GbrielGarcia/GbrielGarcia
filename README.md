@@ -40,23 +40,23 @@ Ahora mismo: productos Flutter + Laravel, webs Astro/Vue y herramientas internas
 
 ### Proyectos destacados
 
-<div align="center">
+#### Productos Tinguar
 
-| | |
-|:---|:---|
-| **[albertoguaman.com](https://github.com/GbrielGarcia/albertoguaman.com)** | Portafolio multiplataforma en Flutter |
-| **[paywall-js](https://github.com/GbrielGarcia/paywall-js)** | Paywall reutilizable para la web |
-| **[paywall-js-wp](https://github.com/GbrielGarcia/paywall-js-wp)** | Integración paywall para WordPress |
-| **[paywall-flutter](https://github.com/GbrielGarcia/paywall-flutter)** | Paywall nativo para apps Flutter |
-| **[vamos_por_alitas](https://github.com/GbrielGarcia/vamos_por_alitas)** | Landing web HTML · CSS · JS |
-| **[streamlit-residuos-kmeans](https://github.com/GbrielGarcia/streamlit-residuos-kmeans)** | Clustering y análisis con Streamlit |
+| Producto | Qué es | Links |
+|:---|:---|:---|
+| **Mi Negocio Listo** | POS, inventario y catálogo online para una o varias tiendas | [Sitio](https://minegociolisto.com/) · [App / login](https://app.minegociolisto.com/login) |
+| **Streaming Distribuidores** | Panel para vender y renovar cuentas de streaming | [Demo / login](https://streaming-demo.tinguar.com/login) |
+| **Rapidito** | Campañas de WhatsApp desde PC (Windows y macOS) | [Producto](https://tinguar.com/productos/rapidito/) |
 
-</div>
+#### Labs · open source
 
-<p align="center">
-  En <b>Tinguar</b> también construyo POS, cobranzas, distribución de streaming,<br/>
-  impresión local y sitios corporativos con el mismo stack.
-</p>
+Herramientas gratis en [tinguar.com/labs](https://tinguar.com/labs/) — 3 proyectos MIT:
+
+| Proyecto | Qué es | Links |
+|:---|:---|:---|
+| **Multi Find** | Extensión Chrome: búsqueda múltiple con colores, minimapa y regex | [Labs](https://tinguar.com/labs/) · [GitHub](https://github.com/tinguar/multi-find) |
+| **Paywall.js** | Librería JS para recordatorios visuales de pagos vencidos | [npm](https://www.npmjs.com/package/paywall-js) · [GitHub](https://github.com/GbrielGarcia/paywall-js) |
+| **Paywall Flutter** | Widget Dart para paywalls en apps Flutter | [pub.dev](https://pub.dev/packages/paywall_flutter) · [GitHub](https://github.com/GbrielGarcia/paywall-flutter) |
 
 ---
 
