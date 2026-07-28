@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="420" viewBox="0 0 1500 420" role="img" aria-label="Alberto Guaman  Desarrollador móvil y web">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07131a"/>
+      <stop offset="45%" stop-color="#0c1f28"/>
+      <stop offset="100%" stop-color="#102a24"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1ec8a5" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#1ec8a5" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#1ec8a5" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#19c3a3"/>
+      <stop offset="100%" stop-color="#3dd6ff"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#7fd9c5" opacity="0.12"/>
+    </pattern>
+  </defs>
+
+  <rect width="1500" height="420" fill="url(#bg)"/>
+  <rect width="1500" height="420" fill="url(#dots)"/>
+  <circle cx="1240" cy="70" r="180" fill="#1ec8a5" opacity="0.08"/>
+  <circle cx="180" cy="360" r="140" fill="#3dd6ff" opacity="0.06"/>
+  <rect x="0" y="0" width="1500" height="3" fill="url(#accent)"/>
+  <rect x="120" y="312" width="420" height="2" fill="url(#glow)"/>
+
+  <text x="120" y="118" fill="#7fd9c5" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="22" letter-spacing="6" font-weight="600">TINGUAR · ECUADOR</text>
+  <text x="120" y="198" fill="#f4fbf8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="64" font-weight="700">Alberto Guaman</text>
+  <text x="120" y="255" fill="#b7d0c8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="28">Desarrollador móvil &amp; web</text>
+  <text x="120" y="300" fill="#8eaea4" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="20">Flutter · Laravel · Astro/Vue · productos a medida</text>
+
+  <g transform="translate(1080, 145)">
+    <rect x="0" y="0" width="250" height="120" rx="18" fill="#0a1a20" stroke="#1ec8a5" stroke-opacity="0.35"/>
+    <text x="28" y="48" fill="#7fd9c5" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="600">Disponible</text>
+    <text x="28" y="82" fill="#f4fbf8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="24" font-weight="700">Freelance</text>
+  </g>
+</svg>
