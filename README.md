@@ -2,8 +2,9 @@
 
 # Alberto Guaman
 
-**Desarrollador móvil & web · Ecuador**  
-Fundador de [Tinguar](https://tinguar.com/) · Freelance disponible
+**Desarrollador móvil & web**  
+Fundador de [Tinguar](https://tinguar.com/) · Freelance disponible  
+🇪🇨 Ecuador · Remoto LATAM · USA · España
 
 Arquitecto y desarrollo productos de software **desde cero**: definición del problema, arquitectura, implementación, despliegue y mantenimiento — acelerando el ciclo con **IA aplicada al diseño técnico y a la construcción del proyecto**.
 
@@ -19,11 +20,35 @@ Arquitecto y desarrollo productos de software **desde cero**: definición del pr
 
 ### Sobre mí
 
-Fundador de **[Tinguar](https://tinguar.com/)**. Diseño y desarrollo software para negocios reales: apps móviles, APIs y sitios web pensados para mantenerse y escalar.
+Fundador de **[Tinguar](https://tinguar.com/)**. Diseño y desarrollo software para negocios reales: apps móviles, APIs y sitios web pensados para mantenerse y escalar. Trabajo desde **Ecuador** con clientes en **LATAM, USA y España**.
 
-Trabajo el ciclo completo **desde el paso 0**: discovery, arquitectura de solución, stack, módulos, datos, integraciones, entrega y operación. Integro **IA en la arquitectura y el desarrollo** para prototipar más rápido, validar decisiones técnicas y construir sistemas listos para producción — sin saltar el criterio de ingeniería.
+---
 
-Enfoque actual: productos Flutter + Laravel, webs Astro/Vue y herramientas de negocio (POS, cobranzas, streaming, campañas WhatsApp, paywalls).
+### Ahora mismo
+
+- Evolucionando **[Mi Negocio Listo](https://minegociolisto.com/)** (POS, inventario, catálogo online y comprobantes por WhatsApp API Meta).
+- Productos Tinguar en operación: **Streaming Distribuidores**, **Rapidito** y herramientas open source en **[Labs](https://tinguar.com/labs/)**.
+- Arquitectura y entrega de software a medida con **IA integrada al flujo de desarrollo**.
+
+---
+
+### Cómo trabajo
+
+1. **Discovery** — entiendo el negocio, el problema y el alcance real.
+2. **Arquitectura** — definimos stack, módulos, datos e integraciones antes de escribir código a ciegas.
+3. **Construcción** — MVP usable → iteraciones → producción, con IA para acelerar diseño técnico, scaffolding y calidad.
+4. **Entrega y operación** — despliegue, documentación y soporte para que el sistema se mantenga.
+
+Criterio de ingeniería primero: la IA acelera, no sustituye las decisiones técnicas.
+
+---
+
+### Resultados
+
+- Productos propios en producción: [Mi Negocio Listo](https://minegociolisto.com/), [Streaming](https://streaming-demo.tinguar.com/login), [Rapidito](https://tinguar.com/productos/rapidito/).
+- Plataforma SaaS **verificada ante Meta** como proveedor de tecnología (WhatsApp API / comprobantes).
+- Open source publicado: [Multi Find](https://github.com/tinguar/multi-find), [Paywall.js](https://github.com/GbrielGarcia/paywall-js), [Paywall Flutter](https://github.com/GbrielGarcia/paywall-flutter).
+- Ciclo completo de punta a punta: idea → arquitectura → app/API → nube → clientes reales.
 
 ---
 
@@ -85,11 +110,15 @@ Herramientas gratis en [tinguar.com/labs](https://tinguar.com/labs/) — 3 proye
 
 ---
 
+### Disponible para proyectos
+
+Acepto **proyectos nuevos**, **consultoría de arquitectura** y **evolución de productos** existentes.
+
+**Canal preferido:** [WhatsApp](https://tunegocio.pro/dV5L5) · +593 99 860 2204  
+También: [contacto@tinguar.com](mailto:contacto@tinguar.com) · [tinguar.com](https://tinguar.com/) · [albertoguaman.com](https://albertoguaman.com/)
+
 <div align="center">
-  <p>
-    <b>¿Hablamos de tu próximo proyecto?</b><br/>
-    <a href="https://tinguar.com/">tinguar.com</a> ·
-    <a href="https://albertoguaman.com/">albertoguaman.com</a> ·
-    <a href="https://tunegocio.pro/dV5L5">WhatsApp</a>
-  </p>
+
+[![WhatsApp](https://img.shields.io/badge/Escribir_por_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://tunegocio.pro/dV5L5)
+
 </div>
